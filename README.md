@@ -16,13 +16,7 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/mdhasanpatwary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
-  <a href="https://dev.to/mdhasanpatwary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mdhasanpatwary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20449015/md-hasan-patwary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/mdhasanpatwaryweb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-</p>
+
 
 ---
 
