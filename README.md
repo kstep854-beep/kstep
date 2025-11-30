@@ -3,7 +3,7 @@
 
 <br/>
 
-Seasoned full‑stack software engineer with 5 years of hands‑on experience transforming sketch‑board concepts into production‑grade web and cloud solutions. I specialize in building pixel‑perfect, sub‑100‑ms interfaces with React/Next.js and TypeScript, while architecting resilient, event‑driven back‑ends in .NET 8, Node.js 20, Python (FastAPI/Django), and Java (Spring Boot). My toolbox spans micro‑frontend architectures, design‑token pipelines, AI‑powered data‑visualization dashboards, and CI/CD automation with Docker, Kubernetes, and Terraform. A relentless advocate for performance, accessibility, and DevOps culture, I mentor cross‑disciplinary teams, enforce Web‑Vitals budgets, and translate ambiguous stakeholder ideas into secure, scalable, and maintainable products that delight millions of users.
+full‑stack software engineer with 5 years of hands‑on experience transforming sketch‑board concepts into production‑grade web and cloud solutions. I specialize in building pixel‑perfect, sub‑100‑ms interfaces with React/Next.js and TypeScript, while architecting resilient, event‑driven back‑ends in .NET 8, Node.js 20, Python (FastAPI/Django), and Java (Spring Boot). My toolbox spans micro‑frontend architectures, design‑token pipelines, AI‑powered data‑visualization dashboards, and CI/CD automation with Docker, Kubernetes, and Terraform. A relentless advocate for performance, accessibility, and DevOps culture, I mentor cross‑disciplinary teams, enforce Web‑Vitals budgets, and translate ambiguous stakeholder ideas into secure, scalable, and maintainable products that delight millions of users.
 
 
 
