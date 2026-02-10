@@ -6,7 +6,7 @@
 
 ## 👋 About
 
-Senior **Full-Stack & AI Developer** building **production-grade web applications and AI systems**.
+Senior **Full-Stack & AI & Blockchain Developer**  who help startups and entrepreneurs build **stable and operationally ready systems**
 
 I work end-to-end — architecture, implementation, deployment — with a strong focus on **clarity, maintainability, and business value**.
 
